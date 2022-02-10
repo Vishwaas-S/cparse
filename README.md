@@ -15,7 +15,7 @@ as an expression using Dijkstra's
 which modifies
 [Jesse Brown's original code](http://www.daniweb.com/software-development/cpp/code/427500/calculator-using-shunting-yard-algorithm).
 
-*This project was developed by [Brandon Amos](http://bamos.github.io) and Vinícius Garcia.*
+*This project was developed by [Brandon Amos](http://bamos.github.io) and Vinícius Garcia.* gg
 
 # Getting Started
 
