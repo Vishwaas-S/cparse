@@ -35,7 +35,7 @@ If you want to use this library in your project please take a look at our [Wiki]
  + Built-in garbage collector (does not handle cyclic references yet)
 
 
-## Setup
+## Setup j
 
 ### Download and Compile
 
