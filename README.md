@@ -158,7 +158,7 @@ int main() {
 
 Please note that a calculator can compile an expression so that it can efficiently be executed several times at a later moment.
 
-## More examples
+## More exampless
 
  + For more examples and a comprehensible guide please read our [Wiki][wiki]
  
