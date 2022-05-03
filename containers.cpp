@@ -11,7 +11,7 @@ using cparse::Iterator;
 using cparse::TokenList;
 using cparse::MapData_t;
 
-/* * * * * Initialize TokenMap * * * * */
+/* * * * * Initialize TokenMaps * * * * */
 
 // Using the "Construct On First Use Idiom"
 // to avoid the "static initialization order fiasco",

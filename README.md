@@ -9,7 +9,7 @@
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license]: LICENSE.mit
 
-This project provide a C++ library to parse a character sequence
+This project provide a C++ library to parse a character sequenceeee
 as an expression using Dijkstra's
 [Shunting-yard algorithm](http://en.wikipedia.org/wiki/Shunting-yard_algorithm),
 which modifies
