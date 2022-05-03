@@ -17,4 +17,3 @@ script:
   - make && make test
   - cpplint --filter=-whitespace/line_length,-legal/copyright,-runtime/explicit *.cpp *.h
   - cppcheck --suppress='*:catch.hpp' . --force
-s
